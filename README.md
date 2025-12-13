@@ -2,6 +2,8 @@
 
 Aplicación web interactiva que visualiza el barrio de Mesa y López en Las Palmas de Gran Canaria en 3D, utilizando datos reales de OpenStreetMap (OSM) y Three.js. Incluye características avanzadas como ciclo día-noche dinámico, dos modos de cámara (orbital y primera persona), y sistemas de colisión.
 
+Enlace al CodeSandbox: https://codesandbox.io/p/sandbox/ig2526-s8-forked-hsfcpn
+
 ## Características Principales
 
 ### Visualización Geográfica
